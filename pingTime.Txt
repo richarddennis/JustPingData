@@ -1,0 +1,2748 @@
+PING TIME (ms): 59
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 708
+ 
+PING TIME (ms): 108
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 100
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 433
+ 
+PING TIME (ms): 536
+ 
+PING TIME (ms): 454
+ 
+PING TIME (ms): 595
+ 
+PING TIME (ms): 549
+ 
+PING TIME (ms): 85
+ 
+PING TIME (ms): 101
+ 
+PING TIME (ms): 100
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 180
+ 
+PING TIME (ms): 169
+ 
+PING TIME (ms): 138
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 85
+ 
+PING TIME (ms): 285
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 301
+ 
+PING TIME (ms): 153
+ 
+PING TIME (ms): 337
+ 
+PING TIME (ms): 637
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 153
+ 
+PING TIME (ms): 154
+ 
+PING TIME (ms): 113
+ 
+PING TIME (ms): 1681
+ 
+PING TIME (ms): 1834
+ 
+PING TIME (ms): 1599
+ 
+PING TIME (ms): 1524
+ 
+PING TIME (ms): 1614
+ 
+PING TIME (ms): 1703
+ 
+PING TIME (ms): 174
+ 
+PING TIME (ms): 75
+ 
+PING TIME (ms): 161
+ 
+PING TIME (ms): 217
+ 
+PING TIME (ms): 142
+ 
+PING TIME (ms): 171
+ 
+PING TIME (ms): 228
+ 
+PING TIME (ms): 264
+ 
+PING TIME (ms): 421
+ 
+PING TIME (ms): 284
+ 
+PING TIME (ms): 143
+ 
+PING TIME (ms): 318
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 135
+ 
+PING TIME (ms): 113
+ 
+PING TIME (ms): 106
+ 
+PING TIME (ms): 250
+ 
+PING TIME (ms): 115
+ 
+PING TIME (ms): 105
+ 
+PING TIME (ms): 254
+ 
+PING TIME (ms): 129
+ 
+PING TIME (ms): 150
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 157
+ 
+PING TIME (ms): 108
+ 
+PING TIME (ms): 282
+ 
+PING TIME (ms): 489
+ 
+PING TIME (ms): 241
+ 
+PING TIME (ms): 282
+ 
+PING TIME (ms): 175
+ 
+PING TIME (ms): 379
+ 
+PING TIME (ms): 379
+ 
+PING TIME (ms): 200
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 217
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 478
+ 
+PING TIME (ms): 399
+ 
+PING TIME (ms): 241
+ 
+PING TIME (ms): 331
+ 
+PING TIME (ms): 184
+ 
+PING TIME (ms): 222
+ 
+PING TIME (ms): 135
+ 
+PING TIME (ms): 159
+ 
+PING TIME (ms): 311
+ 
+PING TIME (ms): 455
+ 
+PING TIME (ms): 405
+ 
+PING TIME (ms): 491
+ 
+PING TIME (ms): 104
+ 
+PING TIME (ms): 393
+ 
+PING TIME (ms): 130
+ 
+PING TIME (ms): 276
+ 
+PING TIME (ms): 276
+ 
+PING TIME (ms): 422
+ 
+PING TIME (ms): 110
+ 
+PING TIME (ms): 181
+ 
+PING TIME (ms): 264
+ 
+PING TIME (ms): 381
+ 
+PING TIME (ms): 230
+ 
+PING TIME (ms): 494
+ 
+PING TIME (ms): 580
+ 
+PING TIME (ms): 795
+ 
+PING TIME (ms): 462
+ 
+PING TIME (ms): 704
+ 
+PING TIME (ms): 627
+ 
+PING TIME (ms): 261
+ 
+PING TIME (ms): 409
+ 
+PING TIME (ms): 239
+ 
+PING TIME (ms): 880
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 1133
+ 
+PING TIME (ms): 375
+ 
+PING TIME (ms): 354
+ 
+PING TIME (ms): 983
+ 
+PING TIME (ms): 308
+ 
+PING TIME (ms): 909
+ 
+PING TIME (ms): 571
+ 
+PING TIME (ms): 183
+ 
+PING TIME (ms): 596
+ 
+PING TIME (ms): 110
+ 
+PING TIME (ms): 543
+ 
+PING TIME (ms): 584
+ 
+PING TIME (ms): 78
+ 
+PING TIME (ms): 454
+ 
+PING TIME (ms): 728
+ 
+PING TIME (ms): 728
+ 
+PING TIME (ms): 728
+ 
+PING TIME (ms): 278
+ 
+PING TIME (ms): 296
+ 
+PING TIME (ms): 1123
+ 
+PING TIME (ms): 226
+ 
+PING TIME (ms): 535
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 271
+ 
+PING TIME (ms): 303
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 298
+ 
+PING TIME (ms): 115
+ 
+PING TIME (ms): 428
+ 
+PING TIME (ms): 103
+ 
+PING TIME (ms): 130
+ 
+PING TIME (ms): 370
+ 
+PING TIME (ms): 756
+ 
+PING TIME (ms): 84
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 84
+ 
+PING TIME (ms): 98
+ 
+PING TIME (ms): 120
+ 
+PING TIME (ms): 202
+ 
+PING TIME (ms): 105
+ 
+PING TIME (ms): 778
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 172
+ 
+PING TIME (ms): 150
+ 
+PING TIME (ms): 140
+ 
+PING TIME (ms): 294
+ 
+PING TIME (ms): 294
+ 
+PING TIME (ms): 479
+ 
+PING TIME (ms): 180
+ 
+PING TIME (ms): 179
+ 
+PING TIME (ms): 302
+ 
+PING TIME (ms): 302
+ 
+PING TIME (ms): 259
+ 
+PING TIME (ms): 302
+ 
+PING TIME (ms): 558
+ 
+PING TIME (ms): 483
+ 
+PING TIME (ms): 310
+ 
+PING TIME (ms): 238
+ 
+PING TIME (ms): 596
+ 
+PING TIME (ms): 354
+ 
+PING TIME (ms): 185
+ 
+PING TIME (ms): 238
+ 
+PING TIME (ms): 541
+ 
+PING TIME (ms): 222
+ 
+PING TIME (ms): 649
+ 
+PING TIME (ms): 557
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 761
+ 
+PING TIME (ms): 1101
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 501
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 154
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 1075
+ 
+PING TIME (ms): 364
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 201
+ 
+PING TIME (ms): 301
+ 
+PING TIME (ms): 338
+ 
+PING TIME (ms): 539
+ 
+PING TIME (ms): 200
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 437
+ 
+PING TIME (ms): 301
+ 
+PING TIME (ms): 232
+ 
+PING TIME (ms): 317
+ 
+PING TIME (ms): 339
+ 
+PING TIME (ms): 632
+ 
+PING TIME (ms): 363
+ 
+PING TIME (ms): 115
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 117
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 153
+ 
+PING TIME (ms): 184
+ 
+PING TIME (ms): 379
+ 
+PING TIME (ms): 200
+ 
+PING TIME (ms): 771
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 455
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 231
+ 
+PING TIME (ms): 200
+ 
+PING TIME (ms): 532
+ 
+PING TIME (ms): 182
+ 
+PING TIME (ms): 348
+ 
+PING TIME (ms): 539
+ 
+PING TIME (ms): 169
+ 
+PING TIME (ms): 169
+ 
+PING TIME (ms): 200
+ 
+PING TIME (ms): 232
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 886
+ 
+PING TIME (ms): 443
+ 
+PING TIME (ms): 321
+ 
+PING TIME (ms): 358
+ 
+PING TIME (ms): 443
+ 
+PING TIME (ms): 405
+ 
+PING TIME (ms): 358
+ 
+PING TIME (ms): 405
+ 
+PING TIME (ms): 443
+ 
+PING TIME (ms): 443
+ 
+PING TIME (ms): 421
+ 
+PING TIME (ms): 876
+ 
+PING TIME (ms): 421
+ 
+PING TIME (ms): 321
+ 
+PING TIME (ms): 337
+ 
+PING TIME (ms): 258
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 368
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 490
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 421
+ 
+PING TIME (ms): 437
+ 
+PING TIME (ms): 421
+ 
+PING TIME (ms): 559
+ 
+PING TIME (ms): 553
+ 
+PING TIME (ms): 232
+ 
+PING TIME (ms): 263
+ 
+PING TIME (ms): 316
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 169
+ 
+PING TIME (ms): 722
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 694
+ 
+PING TIME (ms): 206
+ 
+PING TIME (ms): 138
+ 
+PING TIME (ms): 454
+ 
+PING TIME (ms): 270
+ 
+PING TIME (ms): 182
+ 
+PING TIME (ms): 298
+ 
+PING TIME (ms): 321
+ 
+PING TIME (ms): 1247
+ 
+PING TIME (ms): 169
+ 
+PING TIME (ms): 193
+ 
+PING TIME (ms): 462
+ 
+PING TIME (ms): 764
+ 
+PING TIME (ms): 378
+ 
+PING TIME (ms): 564
+ 
+PING TIME (ms): 250
+ 
+PING TIME (ms): 266
+ 
+PING TIME (ms): 340
+ 
+PING TIME (ms): 591
+ 
+PING TIME (ms): 980
+ 
+PING TIME (ms): 733
+ 
+PING TIME (ms): 628
+ 
+PING TIME (ms): 120
+ 
+PING TIME (ms): 221
+ 
+PING TIME (ms): 143
+ 
+PING TIME (ms): 179
+ 
+PING TIME (ms): 495
+ 
+PING TIME (ms): 1061
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 336
+ 
+PING TIME (ms): 2040
+ 
+PING TIME (ms): 221
+ 
+PING TIME (ms): 274
+ 
+PING TIME (ms): 769
+ 
+PING TIME (ms): 2107
+ 
+PING TIME (ms): 1648
+ 
+PING TIME (ms): 654
+ 
+PING TIME (ms): 400
+ 
+PING TIME (ms): 1128
+ 
+PING TIME (ms): 467
+ 
+PING TIME (ms): 328
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 130
+ 
+PING TIME (ms): 189
+ 
+PING TIME (ms): 150
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 136
+ 
+PING TIME (ms): 282
+ 
+PING TIME (ms): 176
+ 
+PING TIME (ms): 176
+ 
+PING TIME (ms): 270
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 275
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 101
+ 
+PING TIME (ms): 220
+ 
+PING TIME (ms): 277
+ 
+PING TIME (ms): 320
+ 
+PING TIME (ms): 700
+ 
+PING TIME (ms): 351
+ 
+PING TIME (ms): 128
+ 
+PING TIME (ms): 220
+ 
+PING TIME (ms): 251
+ 
+PING TIME (ms): 673
+ 
+PING TIME (ms): 1494
+ 
+PING TIME (ms): 253
+ 
+PING TIME (ms): 114
+ 
+PING TIME (ms): 586
+ 
+PING TIME (ms): 305
+ 
+PING TIME (ms): 262
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 350
+ 
+PING TIME (ms): 1461
+ 
+PING TIME (ms): 746
+ 
+PING TIME (ms): 395
+ 
+PING TIME (ms): 395
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 238
+ 
+PING TIME (ms): 144
+ 
+PING TIME (ms): 364
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 141
+ 
+PING TIME (ms): 426
+ 
+PING TIME (ms): 4352
+ 
+PING TIME (ms): 255
+ 
+PING TIME (ms): 477
+ 
+PING TIME (ms): 412
+ 
+PING TIME (ms): 412
+ 
+PING TIME (ms): 349
+ 
+PING TIME (ms): 176
+ 
+PING TIME (ms): 512
+ 
+PING TIME (ms): 194
+ 
+PING TIME (ms): 360
+ 
+PING TIME (ms): 359
+ 
+PING TIME (ms): 307
+ 
+PING TIME (ms): 246
+ 
+PING TIME (ms): 418
+ 
+PING TIME (ms): 459
+ 
+PING TIME (ms): 518
+ 
+PING TIME (ms): 851
+ 
+PING TIME (ms): 517
+ 
+PING TIME (ms): 130
+ 
+PING TIME (ms): 211
+ 
+PING TIME (ms): 149
+ 
+PING TIME (ms): 149
+ 
+PING TIME (ms): 150
+ 
+PING TIME (ms): 162
+ 
+PING TIME (ms): 224
+ 
+PING TIME (ms): 197
+ 
+PING TIME (ms): 136
+ 
+PING TIME (ms): 168
+ 
+PING TIME (ms): 210
+ 
+PING TIME (ms): 174
+ 
+PING TIME (ms): 200
+ 
+PING TIME (ms): 292
+ 
+PING TIME (ms): 202
+ 
+PING TIME (ms): 204
+ 
+PING TIME (ms): 202
+ 
+PING TIME (ms): 202
+ 
+PING TIME (ms): 274
+ 
+PING TIME (ms): 280
+ 
+PING TIME (ms): 279
+ 
+PING TIME (ms): 1623
+ 
+PING TIME (ms): 176
+ 
+PING TIME (ms): 179
+ 
+PING TIME (ms): 281
+ 
+PING TIME (ms): 362
+ 
+PING TIME (ms): 354
+ 
+PING TIME (ms): 431
+ 
+PING TIME (ms): 436
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 682
+ 
+PING TIME (ms): 411
+ 
+PING TIME (ms): 414
+ 
+PING TIME (ms): 640
+ 
+PING TIME (ms): 566
+ 
+PING TIME (ms): 898
+ 
+PING TIME (ms): 674
+ 
+PING TIME (ms): 676
+ 
+PING TIME (ms): 678
+ 
+PING TIME (ms): 625
+ 
+PING TIME (ms): 638
+ 
+PING TIME (ms): 622
+ 
+PING TIME (ms): 680
+ 
+PING TIME (ms): 678
+ 
+PING TIME (ms): 569
+ 
+PING TIME (ms): 950
+ 
+PING TIME (ms): 718
+ 
+PING TIME (ms): 757
+ 
+PING TIME (ms): 807
+ 
+PING TIME (ms): 1051
+ 
+PING TIME (ms): 552
+ 
+PING TIME (ms): 549
+ 
+PING TIME (ms): 832
+ 
+PING TIME (ms): 795
+ 
+PING TIME (ms): 828
+ 
+PING TIME (ms): 760
+ 
+PING TIME (ms): 565
+ 
+PING TIME (ms): 557
+ 
+PING TIME (ms): 732
+ 
+PING TIME (ms): 1106
+ 
+PING TIME (ms): 637
+ 
+PING TIME (ms): 923
+ 
+PING TIME (ms): 637
+ 
+PING TIME (ms): 695
+ 
+PING TIME (ms): 1071
+ 
+PING TIME (ms): 925
+ 
+PING TIME (ms): 722
+ 
+PING TIME (ms): 211
+ 
+PING TIME (ms): 792
+ 
+PING TIME (ms): 259
+ 
+PING TIME (ms): 261
+ 
+PING TIME (ms): 892
+ 
+PING TIME (ms): 391
+ 
+PING TIME (ms): 266
+ 
+PING TIME (ms): 367
+ 
+PING TIME (ms): 1296
+ 
+PING TIME (ms): 371
+ 
+PING TIME (ms): 370
+ 
+PING TIME (ms): 987
+ 
+PING TIME (ms): 448
+ 
+PING TIME (ms): 489
+ 
+PING TIME (ms): 489
+ 
+PING TIME (ms): 683
+ 
+PING TIME (ms): 388
+ 
+PING TIME (ms): 683
+ 
+PING TIME (ms): 388
+ 
+PING TIME (ms): 384
+ 
+PING TIME (ms): 283
+ 
+PING TIME (ms): 687
+ 
+PING TIME (ms): 331
+ 
+PING TIME (ms): 1021
+ 
+PING TIME (ms): 561
+ 
+PING TIME (ms): 1019
+ 
+PING TIME (ms): 293
+ 
+PING TIME (ms): 276
+ 
+PING TIME (ms): 327
+ 
+PING TIME (ms): 834
+ 
+PING TIME (ms): 273
+ 
+PING TIME (ms): 390
+ 
+PING TIME (ms): 1707
+ 
+PING TIME (ms): 484
+ 
+PING TIME (ms): 427
+ 
+PING TIME (ms): 950
+ 
+PING TIME (ms): 758
+ 
+PING TIME (ms): 269
+ 
+PING TIME (ms): 461
+ 
+PING TIME (ms): 440
+ 
+PING TIME (ms): 647
+ 
+PING TIME (ms): 431
+ 
+PING TIME (ms): 607
+ 
+PING TIME (ms): 818
+ 
+PING TIME (ms): 130
+ 
+PING TIME (ms): 438
+ 
+PING TIME (ms): 334
+ 
+PING TIME (ms): 436
+ 
+PING TIME (ms): 874
+ 
+PING TIME (ms): 436
+ 
+PING TIME (ms): 1114
+ 
+PING TIME (ms): 2737
+ 
+PING TIME (ms): 1106
+ 
+PING TIME (ms): 549
+ 
+PING TIME (ms): 778
+ 
+PING TIME (ms): 1531
+ 
+PING TIME (ms): 587
+ 
+PING TIME (ms): 319
+ 
+PING TIME (ms): 395
+ 
+PING TIME (ms): 324
+ 
+PING TIME (ms): 592
+ 
+PING TIME (ms): 318
+ 
+PING TIME (ms): 316
+ 
+PING TIME (ms): 379
+ 
+PING TIME (ms): 473
+ 
+PING TIME (ms): 1269
+ 
+PING TIME (ms): 544
+ 
+PING TIME (ms): 440
+ 
+PING TIME (ms): 381
+ 
+PING TIME (ms): 1271
+ 
+PING TIME (ms): 1775
+ 
+PING TIME (ms): 291
+ 
+PING TIME (ms): 310
+ 
+PING TIME (ms): 769
+ 
+PING TIME (ms): 666
+ 
+PING TIME (ms): 384
+ 
+PING TIME (ms): 1783
+ 
+PING TIME (ms): 813
+ 
+PING TIME (ms): 238
+ 
+PING TIME (ms): 666
+ 
+PING TIME (ms): 263
+ 
+PING TIME (ms): 261
+ 
+PING TIME (ms): 278
+ 
+PING TIME (ms): 720
+ 
+PING TIME (ms): 484
+ 
+PING TIME (ms): 484
+ 
+PING TIME (ms): 371
+ 
+PING TIME (ms): 721
+ 
+PING TIME (ms): 372
+ 
+PING TIME (ms): 1903
+ 
+PING TIME (ms): 391
+ 
+PING TIME (ms): 709
+ 
+PING TIME (ms): 437
+ 
+PING TIME (ms): 446
+ 
+PING TIME (ms): 395
+ 
+PING TIME (ms): 621
+ 
+PING TIME (ms): 462
+ 
+PING TIME (ms): 494
+ 
+PING TIME (ms): 458
+ 
+PING TIME (ms): 280
+ 
+PING TIME (ms): 464
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 241
+ 
+PING TIME (ms): 242
+ 
+PING TIME (ms): 283
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 188
+ 
+PING TIME (ms): 843
+ 
+PING TIME (ms): 1044
+ 
+PING TIME (ms): 1849
+ 
+PING TIME (ms): 467
+ 
+PING TIME (ms): 184
+ 
+PING TIME (ms): 179
+ 
+PING TIME (ms): 185
+ 
+PING TIME (ms): 1406
+ 
+PING TIME (ms): 193
+ 
+PING TIME (ms): 336
+ 
+PING TIME (ms): 195
+ 
+PING TIME (ms): 230
+ 
+PING TIME (ms): 231
+ 
+PING TIME (ms): 434
+ 
+PING TIME (ms): 233
+ 
+PING TIME (ms): 400
+ 
+PING TIME (ms): 235
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 239
+ 
+PING TIME (ms): 514
+ 
+PING TIME (ms): 160
+ 
+PING TIME (ms): 316
+ 
+PING TIME (ms): 227
+ 
+PING TIME (ms): 2930
+ 
+PING TIME (ms): 390
+ 
+PING TIME (ms): 152
+ 
+PING TIME (ms): 429
+ 
+PING TIME (ms): 270
+ 
+PING TIME (ms): 462
+ 
+PING TIME (ms): 339
+ 
+PING TIME (ms): 1275
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 710
+ 
+PING TIME (ms): 544
+ 
+PING TIME (ms): 457
+ 
+PING TIME (ms): 2450
+ 
+PING TIME (ms): 401
+ 
+PING TIME (ms): 641
+ 
+PING TIME (ms): 2593
+ 
+PING TIME (ms): 2607
+ 
+PING TIME (ms): 306
+ 
+PING TIME (ms): 326
+ 
+PING TIME (ms): 341
+ 
+PING TIME (ms): 538
+ 
+PING TIME (ms): 2620
+ 
+PING TIME (ms): 471
+ 
+PING TIME (ms): 701
+ 
+PING TIME (ms): 544
+ 
+PING TIME (ms): 345
+ 
+PING TIME (ms): 365
+ 
+PING TIME (ms): 460
+ 
+PING TIME (ms): 367
+ 
+PING TIME (ms): 714
+ 
+PING TIME (ms): 168
+ 
+PING TIME (ms): 517
+ 
+PING TIME (ms): 169
+ 
+PING TIME (ms): 1130
+ 
+PING TIME (ms): 201
+ 
+PING TIME (ms): 941
+ 
+PING TIME (ms): 492
+ 
+PING TIME (ms): 418
+ 
+PING TIME (ms): 195
+ 
+PING TIME (ms): 392
+ 
+PING TIME (ms): 488
+ 
+PING TIME (ms): 651
+ 
+PING TIME (ms): 160
+ 
+PING TIME (ms): 378
+ 
+PING TIME (ms): 726
+ 
+PING TIME (ms): 106
+ 
+PING TIME (ms): 148
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 321
+ 
+PING TIME (ms): 237
+ 
+PING TIME (ms): 1512
+ 
+PING TIME (ms): 149
+ 
+PING TIME (ms): 488
+ 
+PING TIME (ms): 380
+ 
+PING TIME (ms): 209
+ 
+PING TIME (ms): 281
+ 
+PING TIME (ms): 250
+ 
+PING TIME (ms): 243
+ 
+PING TIME (ms): 217
+ 
+PING TIME (ms): 219
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 173
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 307
+ 
+PING TIME (ms): 160
+ 
+PING TIME (ms): 503
+ 
+PING TIME (ms): 525
+ 
+PING TIME (ms): 534
+ 
+PING TIME (ms): 885
+ 
+PING TIME (ms): 762
+ 
+PING TIME (ms): 340
+ 
+PING TIME (ms): 382
+ 
+PING TIME (ms): 203
+ 
+PING TIME (ms): 292
+ 
+PING TIME (ms): 459
+ 
+PING TIME (ms): 1840
+ 
+PING TIME (ms): 448
+ 
+PING TIME (ms): 562
+ 
+PING TIME (ms): 429
+ 
+PING TIME (ms): 562
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 121
+ 
+PING TIME (ms): 106
+ 
+PING TIME (ms): 146
+ 
+PING TIME (ms): 165
+ 
+PING TIME (ms): 1342
+ 
+PING TIME (ms): 261
+ 
+PING TIME (ms): 260
+ 
+PING TIME (ms): 260
+ 
+PING TIME (ms): 198
+ 
+PING TIME (ms): 1469
+ 
+PING TIME (ms): 433
+ 
+PING TIME (ms): 354
+ 
+PING TIME (ms): 384
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 253
+ 
+PING TIME (ms): 512
+ 
+PING TIME (ms): 259
+ 
+PING TIME (ms): 465
+ 
+PING TIME (ms): 396
+ 
+PING TIME (ms): 118
+ 
+PING TIME (ms): 118
+ 
+PING TIME (ms): 610
+ 
+PING TIME (ms): 137
+ 
+PING TIME (ms): 762
+ 
+PING TIME (ms): 503
+ 
+PING TIME (ms): 155
+ 
+PING TIME (ms): 145
+ 
+PING TIME (ms): 182
+ 
+PING TIME (ms): 668
+ 
+PING TIME (ms): 171
+ 
+PING TIME (ms): 226
+ 
+PING TIME (ms): 321
+ 
+PING TIME (ms): 219
+ 
+PING TIME (ms): 271
+ 
+PING TIME (ms): 278
+ 
+PING TIME (ms): 279
+ 
+PING TIME (ms): 766
+ 
+PING TIME (ms): 477
+ 
+PING TIME (ms): 294
+ 
+PING TIME (ms): 165
+ 
+PING TIME (ms): 299
+ 
+PING TIME (ms): 663
+ 
+PING TIME (ms): 721
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 228
+ 
+PING TIME (ms): 227
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 186
+ 
+PING TIME (ms): 228
+ 
+PING TIME (ms): 229
+ 
+PING TIME (ms): 236
+ 
+PING TIME (ms): 456
+ 
+PING TIME (ms): 235
+ 
+PING TIME (ms): 185
+ 
+PING TIME (ms): 347
+ 
+PING TIME (ms): 348
+ 
+PING TIME (ms): 411
+ 
+PING TIME (ms): 222
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 3558
+ 
+PING TIME (ms): 299
+ 
+PING TIME (ms): 1132
+ 
+PING TIME (ms): 317
+ 
+PING TIME (ms): 369
+ 
+PING TIME (ms): 433
+ 
+PING TIME (ms): 470
+ 
+PING TIME (ms): 447
+ 
+PING TIME (ms): 454
+ 
+PING TIME (ms): 834
+ 
+PING TIME (ms): 1029
+ 
+PING TIME (ms): 528
+ 
+PING TIME (ms): 595
+ 
+PING TIME (ms): 311
+ 
+PING TIME (ms): 439
+ 
+PING TIME (ms): 591
+ 
+PING TIME (ms): 341
+ 
+PING TIME (ms): 341
+ 
+PING TIME (ms): 342
+ 
+PING TIME (ms): 412
+ 
+PING TIME (ms): 293
+ 
+PING TIME (ms): 717
+ 
+PING TIME (ms): 384
+ 
+PING TIME (ms): 455
+ 
+PING TIME (ms): 117
+ 
+PING TIME (ms): 117
+ 
+PING TIME (ms): 1037
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 318
+ 
+PING TIME (ms): 850
+ 
+PING TIME (ms): 220
+ 
+PING TIME (ms): 222
+ 
+PING TIME (ms): 180
+ 
+PING TIME (ms): 342
+ 
+PING TIME (ms): 415
+ 
+PING TIME (ms): 234
+ 
+PING TIME (ms): 667
+ 
+PING TIME (ms): 414
+ 
+PING TIME (ms): 224
+ 
+PING TIME (ms): 149
+ 
+PING TIME (ms): 293
+ 
+PING TIME (ms): 1281
+ 
+PING TIME (ms): 3078
+ 
+PING TIME (ms): 408
+ 
+PING TIME (ms): 148
+ 
+PING TIME (ms): 317
+ 
+PING TIME (ms): 380
+ 
+PING TIME (ms): 318
+ 
+PING TIME (ms): 798
+ 
+PING TIME (ms): 275
+ 
+PING TIME (ms): 275
+ 
+PING TIME (ms): 565
+ 
+PING TIME (ms): 193
+ 
+PING TIME (ms): 223
+ 
+PING TIME (ms): 741
+ 
+PING TIME (ms): 325
+ 
+PING TIME (ms): 406
+ 
+PING TIME (ms): 406
+ 
+PING TIME (ms): 744
+ 
+PING TIME (ms): 248
+ 
+PING TIME (ms): 218
+ 
+PING TIME (ms): 1172
+ 
+PING TIME (ms): 280
+ 
+PING TIME (ms): 434
+ 
+PING TIME (ms): 378
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 422
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 425
+ 
+PING TIME (ms): 768
+ 
+PING TIME (ms): 1120
+ 
+PING TIME (ms): 1065
+ 
+PING TIME (ms): 1990
+ 
+PING TIME (ms): 404
+ 
+PING TIME (ms): 287
+ 
+PING TIME (ms): 598
+ 
+PING TIME (ms): 318
+ 
+PING TIME (ms): 317
+ 
+PING TIME (ms): 775
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 368
+ 
+PING TIME (ms): 381
+ 
+PING TIME (ms): 380
+ 
+PING TIME (ms): 380
+ 
+PING TIME (ms): 363
+ 
+PING TIME (ms): 464
+ 
+PING TIME (ms): 925
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 741
+ 
+PING TIME (ms): 493
+ 
+PING TIME (ms): 665
+ 
+PING TIME (ms): 872
+ 
+PING TIME (ms): 452
+ 
+PING TIME (ms): 463
+ 
+PING TIME (ms): 615
+ 
+PING TIME (ms): 656
+ 
+PING TIME (ms): 681
+ 
+PING TIME (ms): 789
+ 
+PING TIME (ms): 1313
+ 
+PING TIME (ms): 905
+ 
+PING TIME (ms): 946
+ 
+PING TIME (ms): 905
+ 
+PING TIME (ms): 905
+ 
+PING TIME (ms): 960
+ 
+PING TIME (ms): 960
+ 
+PING TIME (ms): 1100
+ 
+PING TIME (ms): 1059
+ 
+PING TIME (ms): 1101
+ 
+PING TIME (ms): 1060
+ 
+PING TIME (ms): 1075
+ 
+PING TIME (ms): 1459
+ 
+PING TIME (ms): 1136
+ 
+PING TIME (ms): 1222
+ 
+PING TIME (ms): 1263
+ 
+PING TIME (ms): 1222
+ 
+PING TIME (ms): 1263
+ 
+PING TIME (ms): 1222
+ 
+PING TIME (ms): 938
+ 
+PING TIME (ms): 1275
+ 
+PING TIME (ms): 782
+ 
+PING TIME (ms): 1319
+ 
+PING TIME (ms): 1322
+ 
+PING TIME (ms): 1322
+ 
+PING TIME (ms): 1291
+ 
+PING TIME (ms): 131
+ 
+PING TIME (ms): 131
+ 
+PING TIME (ms): 248
+ 
+PING TIME (ms): 1389
+ 
+PING TIME (ms): 2539
+ 
+PING TIME (ms): 766
+ 
+PING TIME (ms): 336
+ 
+PING TIME (ms): 1247
+ 
+PING TIME (ms): 1615
+ 
+PING TIME (ms): 711
+ 
+PING TIME (ms): 235
+ 
+PING TIME (ms): 192
+ 
+PING TIME (ms): 1612
+ 
+PING TIME (ms): 1635
+ 
+PING TIME (ms): 1022
+ 
+PING TIME (ms): 151
+ 
+PING TIME (ms): 151
+ 
+PING TIME (ms): 192
+ 
+PING TIME (ms): 193
+ 
+PING TIME (ms): 925
+ 
+PING TIME (ms): 1223
+ 
+PING TIME (ms): 761
+ 
+PING TIME (ms): 1758
+ 
+PING TIME (ms): 275
+ 
+PING TIME (ms): 746
+ 
+PING TIME (ms): 996
+ 
+PING TIME (ms): 234
+ 
+PING TIME (ms): 1376
+ 
+PING TIME (ms): 302
+ 
+PING TIME (ms): 350
+ 
+PING TIME (ms): 1936
+ 
+PING TIME (ms): 736
+ 
+PING TIME (ms): 328
+ 
+PING TIME (ms): 725
+ 
+PING TIME (ms): 352
+ 
+PING TIME (ms): 164
+ 
+PING TIME (ms): 799
+ 
+PING TIME (ms): 386
+ 
+PING TIME (ms): 387
+ 
+PING TIME (ms): 1534
+ 
+PING TIME (ms): 447
+ 
+PING TIME (ms): 334
+ 
+PING TIME (ms): 959
+ 
+PING TIME (ms): 439
+ 
+PING TIME (ms): 509
+ 
+PING TIME (ms): 1718
+ 
+PING TIME (ms): 626
+ 
+PING TIME (ms): 1252
+ 
+PING TIME (ms): 600
+ 
+PING TIME (ms): 661
+ 
+PING TIME (ms): 143
+ 
+PING TIME (ms): 597
+ 
+PING TIME (ms): 185
+ 
+PING TIME (ms): 177
+ 
+PING TIME (ms): 1875
+ 
+PING TIME (ms): 1160
+ 
+PING TIME (ms): 628
+ 
+PING TIME (ms): 1326
+ 
+PING TIME (ms): 974
+ 
+PING TIME (ms): 647
+ 
+PING TIME (ms): 512
+ 
+PING TIME (ms): 656
+ 
+PING TIME (ms): 655
+ 
+PING TIME (ms): 2574
+ 
+PING TIME (ms): 1109
+ 
+PING TIME (ms): 1938
+ 
+PING TIME (ms): 660
+ 
+PING TIME (ms): 660
+ 
+PING TIME (ms): 1631
+ 
+PING TIME (ms): 2394
+ 
+PING TIME (ms): 2080
+ 
+PING TIME (ms): 2124
+ 
+PING TIME (ms): 2082
+ 
+PING TIME (ms): 2494
+ 
+PING TIME (ms): 2123
+ 
+PING TIME (ms): 976
+ 
+PING TIME (ms): 2122
+ 
+PING TIME (ms): 2431
+ 
+PING TIME (ms): 2558
+ 
+PING TIME (ms): 2300
+ 
+PING TIME (ms): 3149
+ 
+PING TIME (ms): 2205
+ 
+PING TIME (ms): 2679
+ 
+PING TIME (ms): 2497
+ 
+PING TIME (ms): 2173
+ 
+PING TIME (ms): 2331
+ 
+PING TIME (ms): 2549
+ 
+PING TIME (ms): 1714
+ 
+PING TIME (ms): 2638
+ 
+PING TIME (ms): 1731
+ 
+PING TIME (ms): 3716
+ 
+PING TIME (ms): 2362
+ 
+PING TIME (ms): 2349
+ 
+PING TIME (ms): 2567
+ 
+PING TIME (ms): 2379
+ 
+PING TIME (ms): 2379
+ 
+PING TIME (ms): 3020
+ 
+PING TIME (ms): 1734
+ 
+PING TIME (ms): 1764
+ 
+PING TIME (ms): 1764
+ 
+PING TIME (ms): 7787
+ 
+PING TIME (ms): 1823
+ 
+PING TIME (ms): 1858
+ 
+PING TIME (ms): 3108
+ 
+PING TIME (ms): 1908
+ 
+PING TIME (ms): 1914
+ 
+PING TIME (ms): 1920
+ 
+PING TIME (ms): 1952
+ 
+PING TIME (ms): 1951
+ 
+PING TIME (ms): 315
+ 
+PING TIME (ms): 1975
+ 
+PING TIME (ms): 1979
+ 
+PING TIME (ms): 7186
+ 
+PING TIME (ms): 2005
+ 
+PING TIME (ms): 4468
+ 
+PING TIME (ms): 3011
+ 
+PING TIME (ms): 411
+ 
+PING TIME (ms): 240
+ 
+PING TIME (ms): 186
+ 
+PING TIME (ms): 88
+ 
+PING TIME (ms): 456
+ 
+PING TIME (ms): 143
+ 
+PING TIME (ms): 198
+ 
+PING TIME (ms): 237
+ 
+PING TIME (ms): 118
+ 
+PING TIME (ms): 370
+ 
+PING TIME (ms): 196
+ 
+PING TIME (ms): 196
+ 
+PING TIME (ms): 203
+ 
+PING TIME (ms): 308
+ 
+PING TIME (ms): 266
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 477
+ 
+PING TIME (ms): 292
+ 
+PING TIME (ms): 291
+ 
+PING TIME (ms): 670
+ 
+PING TIME (ms): 246
+ 
+PING TIME (ms): 382
+ 
+PING TIME (ms): 292
+ 
+PING TIME (ms): 429
+ 
+PING TIME (ms): 427
+ 
+PING TIME (ms): 361
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 781
+ 
+PING TIME (ms): 726
+ 
+PING TIME (ms): 869
+ 
+PING TIME (ms): 611
+ 
+PING TIME (ms): 507
+ 
+PING TIME (ms): 1069
+ 
+PING TIME (ms): 735
+ 
+PING TIME (ms): 476
+ 
+PING TIME (ms): 512
+ 
+PING TIME (ms): 559
+ 
+PING TIME (ms): 174
+ 
+PING TIME (ms): 7242
+ 
+PING TIME (ms): 1930
+ 
+PING TIME (ms): 1692
+ 
+PING TIME (ms): 2804
+ 
+PING TIME (ms): 2270
+ 
+PING TIME (ms): 1741
+ 
+PING TIME (ms): 1748
+ 
+PING TIME (ms): 2457
+ 
+PING TIME (ms): 1890
+ 
+PING TIME (ms): 144
+ 
+PING TIME (ms): 1791
+ 
+PING TIME (ms): 1930
+ 
+PING TIME (ms): 167
+ 
+PING TIME (ms): 159
+ 
+PING TIME (ms): 232
+ 
+PING TIME (ms): 417
+ 
+PING TIME (ms): 270
+ 
+PING TIME (ms): 462
+ 
+PING TIME (ms): 272
+ 
+PING TIME (ms): 283
+ 
+PING TIME (ms): 587
+ 
+PING TIME (ms): 373
+ 
+PING TIME (ms): 335
+ 
+PING TIME (ms): 431
+ 
+PING TIME (ms): 160
+ 
+PING TIME (ms): 197
+ 
+PING TIME (ms): 179
+ 
+PING TIME (ms): 419
+ 
+PING TIME (ms): 182
+ 
+PING TIME (ms): 195
+ 
+PING TIME (ms): 195
+ 
+PING TIME (ms): 295
+ 
+PING TIME (ms): 99
+ 
+PING TIME (ms): 375
+ 
+PING TIME (ms): 197
+ 
+PING TIME (ms): 194
+ 
+PING TIME (ms): 349
+ 
+PING TIME (ms): 422
+ 
+PING TIME (ms): 244
+ 
+PING TIME (ms): 244
+ 
+PING TIME (ms): 851
+ 
+PING TIME (ms): 410
+ 
+PING TIME (ms): 395
+ 
+PING TIME (ms): 481
+ 
+PING TIME (ms): 359
+ 
+PING TIME (ms): 399
+ 
+PING TIME (ms): 807
+ 
+PING TIME (ms): 206
+ 
+PING TIME (ms): 3959
+ 
+PING TIME (ms): 227
+ 
+PING TIME (ms): 262
+ 
+PING TIME (ms): 6676
+ 
+PING TIME (ms): 624
+ 
+PING TIME (ms): 567
+ 
+PING TIME (ms): 250
+ 
+PING TIME (ms): 266
+ 
+PING TIME (ms): 390
+ 
+PING TIME (ms): 607
+ 
+PING TIME (ms): 562
+ 
+PING TIME (ms): 418
+ 
+PING TIME (ms): 780
+ 
+PING TIME (ms): 688
+ 
+PING TIME (ms): 149
+ 
+PING TIME (ms): 190
+ 
+PING TIME (ms): 1204
+ 
+PING TIME (ms): 149
+ 
+PING TIME (ms): 113
+ 
+PING TIME (ms): 814
+ 
+PING TIME (ms): 700
+ 
+PING TIME (ms): 703
+ 
+PING TIME (ms): 1135
+ 
+PING TIME (ms): 1448
+ 
+PING TIME (ms): 122
+ 
+PING TIME (ms): 379
+ 
+PING TIME (ms): 4246
+ 
+PING TIME (ms): 1225
+ 
+PING TIME (ms): 733
+ 
+PING TIME (ms): 1234
+ 
+PING TIME (ms): 473
+ 
+PING TIME (ms): 263
+ 
+PING TIME (ms): 1063
+ 
+PING TIME (ms): 1087
+ 
+PING TIME (ms): 234
+ 
+PING TIME (ms): 1110
+ 
+PING TIME (ms): 527
+ 
+PING TIME (ms): 457
+ 
+PING TIME (ms): 1756
+ 
+PING TIME (ms): 342
+ 
+PING TIME (ms): 458
+ 
+PING TIME (ms): 282
+ 
+PING TIME (ms): 2049
+ 
+PING TIME (ms): 427
+ 
+PING TIME (ms): 7783
+ 
+PING TIME (ms): 309
+ 
+PING TIME (ms): 309
+ 
+PING TIME (ms): 1881
+ 
+PING TIME (ms): 723
+ 
+PING TIME (ms): 364
+ 
+PING TIME (ms): 825
+ 
+PING TIME (ms): 396
+ 
+PING TIME (ms): 250
+ 
+PING TIME (ms): 369
+ 
+PING TIME (ms): 257
+ 
+PING TIME (ms): 367
+ 
+PING TIME (ms): 432
+ 
+PING TIME (ms): 350
+ 
+PING TIME (ms): 326
+ 
+PING TIME (ms): 322
+ 
+PING TIME (ms): 328
+ 
+PING TIME (ms): 350
+ 
+PING TIME (ms): 360
+ 
+PING TIME (ms): 369
+ 
+PING TIME (ms): 368
+ 
+PING TIME (ms): 405
+ 
+PING TIME (ms): 827
+ 
+PING TIME (ms): 404
+ 
+PING TIME (ms): 391
+ 
+PING TIME (ms): 409
+ 
+PING TIME (ms): 249
+ 
+PING TIME (ms): 341
+ 
+PING TIME (ms): 341
+ 
+PING TIME (ms): 534
+ 
+PING TIME (ms): 515
+ 
+PING TIME (ms): 679
+ 
+PING TIME (ms): 339
+ 
+PING TIME (ms): 247
+ 
+PING TIME (ms): 303
+ 
+PING TIME (ms): 120
+ 
+PING TIME (ms): 198
+ 
+PING TIME (ms): 202
+ 
+PING TIME (ms): 2697
+ 
+PING TIME (ms): 278
+ 
+PING TIME (ms): 295
+ 
+PING TIME (ms): 99
+ 
+PING TIME (ms): 171
+ 
+PING TIME (ms): 9298
+ 
+PING TIME (ms): 382
+ 
+PING TIME (ms): 139
+ 
+PING TIME (ms): 608
+ 
+PING TIME (ms): 273
+ 
+PING TIME (ms): 353
+ 
+PING TIME (ms): 732
+ 
+PING TIME (ms): 283
+ 
+PING TIME (ms): 655
+ 
+PING TIME (ms): 297
+ 
+PING TIME (ms): 235
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 496
+ 
+PING TIME (ms): 1037
+ 
+PING TIME (ms): 440
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 857
+ 
+PING TIME (ms): 478
+ 
+PING TIME (ms): 243
+ 
+PING TIME (ms): 324
+ 
+PING TIME (ms): 1265
+ 
+PING TIME (ms): 384
+ 
+PING TIME (ms): 1381
+ 
+PING TIME (ms): 1735
+ 
+PING TIME (ms): 2912
+ 
+PING TIME (ms): 1854
+ 
+PING TIME (ms): 1936
+ 
+PING TIME (ms): 154
+ 
+PING TIME (ms): 154
+ 
+PING TIME (ms): 241
+ 
+PING TIME (ms): 680
+ 
+PING TIME (ms): 193
+ 
+PING TIME (ms): 337
+ 
+PING TIME (ms): 2096
+ 
+PING TIME (ms): 123
+ 
+PING TIME (ms): 659
+ 
+PING TIME (ms): 337
+ 
+PING TIME (ms): 221
+ 
+PING TIME (ms): 364
+ 
+PING TIME (ms): 638
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 324
+ 
+PING TIME (ms): 285
+ 
+PING TIME (ms): 116
+ 
+PING TIME (ms): 154
+ 
+PING TIME (ms): 190
+ 
+PING TIME (ms): 275
+ 
+PING TIME (ms): 285
+ 
+PING TIME (ms): 282
+ 
+PING TIME (ms): 12373
+ 
+PING TIME (ms): 301
+ 
+PING TIME (ms): 233
+ 
+PING TIME (ms): 398
+ 
+PING TIME (ms): 180
+ 
+PING TIME (ms): 196
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 147
+ 
+PING TIME (ms): 247
+ 
+PING TIME (ms): 350
+ 
+PING TIME (ms): 539
+ 
+PING TIME (ms): 85
+ 
+PING TIME (ms): 129
+ 
+PING TIME (ms): 165
+ 
+PING TIME (ms): 178
+ 
+PING TIME (ms): 183
+ 
+PING TIME (ms): 287
+ 
+PING TIME (ms): 287
+ 
+PING TIME (ms): 523
+ 
+PING TIME (ms): 208
+ 
+PING TIME (ms): 258
+ 
+PING TIME (ms): 416
+ 
+PING TIME (ms): 322
+ 
+PING TIME (ms): 271
+ 
+PING TIME (ms): 321
+ 
+PING TIME (ms): 413
+ 
+PING TIME (ms): 193
+ 
+PING TIME (ms): 138
+ 
+PING TIME (ms): 361
+ 
+PING TIME (ms): 361
+ 
+PING TIME (ms): 153
+ 
+PING TIME (ms): 309
+ 
+PING TIME (ms): 107
+ 
+PING TIME (ms): 202
+ 
+PING TIME (ms): 286
+ 
+PING TIME (ms): 170
+ 
+PING TIME (ms): 286
+ 
+PING TIME (ms): 255
+ 
+PING TIME (ms): 204
+ 
+PING TIME (ms): 509
+ 
+PING TIME (ms): 316
+ 
+PING TIME (ms): 509
+ 
+PING TIME (ms): 382
+ 
+PING TIME (ms): 167
+ 
+PING TIME (ms): 269
+ 
+PING TIME (ms): 254
+ 
+PING TIME (ms): 418
+ 
+PING TIME (ms): 289
+ 
+PING TIME (ms): 291
+ 
+PING TIME (ms): 371
+ 
+PING TIME (ms): 358
+ 
+PING TIME (ms): 751
+ 
+PING TIME (ms): 1002
+ 
+PING TIME (ms): 764
+ 
+PING TIME (ms): 232
+ 
+PING TIME (ms): 1408
+ 
+PING TIME (ms): 90
+ 
+PING TIME (ms): 134
+ 
+PING TIME (ms): 134
+ 
+PING TIME (ms): 170
+ 
+PING TIME (ms): 201
+ 
+PING TIME (ms): 170
+ 
+PING TIME (ms): 154
+ 
+PING TIME (ms): 185
+ 
+PING TIME (ms): 269
+ 
+PING TIME (ms): 619
+ 
+PING TIME (ms): 373
+ 
+PING TIME (ms): 275
+ 
+PING TIME (ms): 508
+ 
+PING TIME (ms): 431
+ 
+PING TIME (ms): 584
+ 
+PING TIME (ms): 287
+ 
+PING TIME (ms): 533
+ 
+PING TIME (ms): 2406
+ 
+PING TIME (ms): 1927
+ 
+PING TIME (ms): 1964
+ 
+PING TIME (ms): 1964
+ 
+PING TIME (ms): 2079
+ 
+PING TIME (ms): 1207
+ 
+PING TIME (ms): 1290
+ 
+PING TIME (ms): 1340
+ 
+PING TIME (ms): 131
+ 
+PING TIME (ms): 161
+ 
+PING TIME (ms): 111
+ 
+PING TIME (ms): 185
+ 
+PING TIME (ms): 309
+ 
+PING TIME (ms): 119
+ 
+PING TIME (ms): 134
+ 
+PING TIME (ms): 356
+ 
+PING TIME (ms): 425
+ 
+PING TIME (ms): 440
+ 
+PING TIME (ms): 478
+ 
+PING TIME (ms): 311
+ 
+PING TIME (ms): 205
+ 
+PING TIME (ms): 609
+ 
+PING TIME (ms): 692
+ 
+PING TIME (ms): 520
+ 
+PING TIME (ms): 795
+ 
+PING TIME (ms): 401
+ 
+PING TIME (ms): 548
+ 
+PING TIME (ms): 1273
+ 
+PING TIME (ms): 527
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 1606
+ 
+PING TIME (ms): 93
+ 
+PING TIME (ms): 118
+ 
+PING TIME (ms): 109
+ 
+PING TIME (ms): 110
+ 
+PING TIME (ms): 123
+ 
+PING TIME (ms): 159
+ 
+PING TIME (ms): 283
+ 
+PING TIME (ms): 355
+ 
+PING TIME (ms): 217
+ 
+PING TIME (ms): 462
+ 
+PING TIME (ms): 469
+ 
+PING TIME (ms): 426
+ 
+PING TIME (ms): 519
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 425
+ 
+PING TIME (ms): 132
+ 
+PING TIME (ms): 611
+ 
+PING TIME (ms): 143
+ 
+PING TIME (ms): 1445
+ 
+PING TIME (ms): 816
+ 
+PING TIME (ms): 923
+ 
+PING TIME (ms): 171
+ 
+PING TIME (ms): 1061
+ 
+PING TIME (ms): 163
+ 
+PING TIME (ms): 326
+ 
+PING TIME (ms): 325
+ 
+PING TIME (ms): 255
+ 
+PING TIME (ms): 401
+ 
+PING TIME (ms): 406
+ 
+PING TIME (ms): 179
+ 
+PING TIME (ms): 424
+ 
+PING TIME (ms): 507
+ 
+PING TIME (ms): 191
+ 
+PING TIME (ms): 423
+ 
+PING TIME (ms): 365
+ 
+PING TIME (ms): 212
+ 
+PING TIME (ms): 403
+ 
+PING TIME (ms): 722
+ 
+PING TIME (ms): 635
+ 
+PING TIME (ms): 207
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 385
+ 
+PING TIME (ms): 141
+ 
+PING TIME (ms): 404
+ 
+PING TIME (ms): 204
+ 
+PING TIME (ms): 301
+ 
+PING TIME (ms): 332
+ 
+PING TIME (ms): 432
+ 
+PING TIME (ms): 131
+ 
+PING TIME (ms): 248
+ 
+PING TIME (ms): 350
+ 
+PING TIME (ms): 417
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 450
+ 
+PING TIME (ms): 303
+ 
+PING TIME (ms): 201
+ 
+PING TIME (ms): 347
+ 
+PING TIME (ms): 216
+ 
+PING TIME (ms): 244
+ 
+PING TIME (ms): 304
+ 
+PING TIME (ms): 150
+ 
+PING TIME (ms): 359
+ 
+PING TIME (ms): 175
+ 
+PING TIME (ms): 365
+ 
+PING TIME (ms): 566
+ 
+PING TIME (ms): 1034
+ 
+PING TIME (ms): 747
+ 
+PING TIME (ms): 500
+ 
+PING TIME (ms): 1663
+ 
+PING TIME (ms): 1868
+ 
+PING TIME (ms): 2255
+ 
+PING TIME (ms): 12355
+ 
+PING TIME (ms): 3388
+ 
+PING TIME (ms): 7124
+ 
+PING TIME (ms): 7823
+ 
+PING TIME (ms): 3715
+ 
+PING TIME (ms): 8424
+ 
+PING TIME (ms): 12231
+ 
+PING TIME (ms): 7644
+ 
+PING TIME (ms): 5504
+ 
+PING TIME (ms): 8374
+ 
+PING TIME (ms): 5827
+ 
+PING TIME (ms): 6121
+ 
+PING TIME (ms): 6507
+ 
+PING TIME (ms): 9515
+ 
+PING TIME (ms): 10569
+ 
+PING TIME (ms): 13131
+ 
+PING TIME (ms): 14049
+ 
+PING TIME (ms): 14265
+ 
+PING TIME (ms): 23363
+ 
+PING TIME (ms): 41183
+ 
+PING TIME (ms): 802
+ 
+PING TIME (ms): 100
+ 
+PING TIME (ms): 117606
+ 
+PING TIME (ms): 347
+ 
+PING TIME (ms): 2098
+ 
+PING TIME (ms): 401
+ 
+PING TIME (ms): 203
+ 
