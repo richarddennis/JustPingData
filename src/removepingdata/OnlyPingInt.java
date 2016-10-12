@@ -60,8 +60,6 @@ public class OnlyPingInt {
 
         if (!foundInts) {
             System.out.println("No numbers found.");
-        } else {
-            System.out.println("Total: " + total);
         }
 
         // close the scanner
